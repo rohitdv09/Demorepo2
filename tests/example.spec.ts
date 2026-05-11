@@ -18,5 +18,6 @@ test('get started link', async ({ page }) => {
   console.log("hii");
   console.log("hello");
   console.log("moring");
+  console.log("uiii");
 
 });
